@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [1 gitbook](chapter1.md)
-   * git
+   * [git](git.md)
    * [github](github.md)
    * [gitbook](gitbook.md)
 * 2 linux
